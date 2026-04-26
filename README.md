@@ -1,4 +1,4 @@
-# Crypto Wallet Tracker
+# Crypto Wallet Tracker Tool
 
 Simple Python tool to check Ethereum wallet balance using public API.
 
